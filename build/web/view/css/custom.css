@@ -1,0 +1,6 @@
+.gradient{
+    background: -webkit-linear-gradient(#446CB3, #4183D7,#3498DB, #6BB9F0, #5C97BF);
+    background: -o-linear-gradient(#446CB3, #4183D7,#3498DB, #6BB9F0, #5C97BF);
+    background: -moz-linear-gradient(#446CB3, #4183D7,#3498DB, #6BB9F0, #5C97BF);
+    background: linear-gradient(#446CB3, #4183D7,#3498DB, #6BB9F0, #5C97BF);
+}
